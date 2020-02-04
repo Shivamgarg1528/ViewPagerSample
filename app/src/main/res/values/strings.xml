@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ViewPagerSample</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+
+    <string name="sub_tab_text_1">Sub Tab 1</string>
+    <string name="sub_tab_text_2">Sub Tab 2</string>
+    <string name="sub_tab_text_3">Sub Tab 3</string>
+    <string name="sub_tab_text_4">Sub Tab 4</string>
+
+</resources>
